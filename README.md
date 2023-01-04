@@ -1,6 +1,11 @@
 ### Oii, eu sou a Giselly!
 
-<img src="file:///home/billy/Downloads/git2.png">
+<div style= "align-items: center"><br>
+   <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GisellyPereira&layout=compact&langs_count=7&theme=dracula"/>
+   <img align="center" alt="giselly-img" height="280" width="300" src="https://user-images.githubusercontent.com/116305443/210594424-84c32b02-1c45-43e5-8559-36cc94aad5d9.png">
+   
+</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

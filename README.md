@@ -26,10 +26,6 @@
   <a href="https://www.linkedin.com/in/giselly-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>    
    
-<div style= "align-items: center"><br>
-   <img align="center" alt="giselly-img" height="280" width="300" src="https://user-images.githubusercontent.com/116305443/210594424-84c32b02-1c45-43e5-8559-36cc94aad5d9.png">
-   
-</div>
   
 ##
 

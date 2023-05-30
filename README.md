@@ -1,15 +1,14 @@
 <div align="center">
    <h1>Oii, eu sou a Giselly!</h1>  
  </div>
+ 
+ [![Twitter Badge](https://img.shields.io/badge/-@gisellyy_ap-3333cc?style=flat-square&labelColor=3333cc&logo=twitter&logoColor=white&link=https://twitter.com/gisellyy_ap)](https://twitter.com/gisellyy_ap) 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josepholiveiraa/)](https://www.linkedin.com/in/josepholiveiraa/) -->
 
  
 
 
-<div align="center">
-  <a href="https://github.com/GisellyPereira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GisellyPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GisellyPereira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
    
    <div align="center" ><br>
   <img align="center" alt="Giselly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

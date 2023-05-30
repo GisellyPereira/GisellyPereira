@@ -3,7 +3,7 @@
  </div>
  
  [![Twitter Badge](https://img.shields.io/badge/-@gisellyy_ap-3333cc?style=flat-square&labelColor=3333cc&logo=twitter&logoColor=white&link=https://twitter.com/gisellyy_ap)](https://twitter.com/gisellyy_ap) 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josepholiveiraa/)](https://www.linkedin.com/in/josepholiveiraa/) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Giselly%20Pereira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giselly-pereira/)](https://www.linkedin.com/in/giselly-pereira/)
 
  
 

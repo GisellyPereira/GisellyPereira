@@ -22,6 +22,9 @@ Sou entusiasmada em aprender e criar soluções inovadoras. Estou constantemente
   <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="38" height="38"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="38" height="38"/></code>&nbsp;
  </p>
+ 
+ 
+ "A sabedoria não é um produto da escolaridade, mas da tentativa ao longo da vida de adquiri-la." - Albert Einstein
    
 
    

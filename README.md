@@ -1,3 +1,6 @@
+<img align="right" src="https://github.com/GisellyPereira/GisellyPereira/assets/116305443/650417f1-ec7e-426f-bd62-fe21cfd83f62" width="380"  />
+
+
 ### Olá, eu sou Giselly 👋
  
  [![Twitter Badge](https://img.shields.io/badge/-@gisellyy_ap-C8325E?style=flat-square&labelColor=C8325E&logo=twitter&logoColor=white&link=https://twitter.com/gisellyy_ap)](https://twitter.com/gisellyy_ap) 

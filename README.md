@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/GisellyPereira/GisellyPereira/assets/116305443/650417f1-ec7e-426f-bd62-fe21cfd83f62" width="380"  />
+
+<img align="right" src="https://github.com/GisellyPereira/GisellyPereira/assets/116305443/38458bc2-5d1e-453f-83fb-7ccbbdf7ed92" width="380"  />
 
 
 ### Olá, eu sou Giselly 👋

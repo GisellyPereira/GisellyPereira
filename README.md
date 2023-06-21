@@ -7,7 +7,7 @@
  [![Twitter Badge](https://img.shields.io/badge/-@gisellyy_ap-C8325E?style=flat-square&labelColor=C8325E&logo=twitter&logoColor=white&link=https://twitter.com/gisellyy_ap)](https://twitter.com/gisellyy_ap) 
 [![Linkedin Badge](https://img.shields.io/badge/-Giselly%20Pereira-C8325E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giselly-pereira/)](https://www.linkedin.com/in/giselly-pereira/)
 
-Sou uma desenvolvedora front-end apaixonada por criar experiências digitais incríveis. Nos últimos anos, tenho me dedicado ao aprimoramento das minhas habilidades em engenharia da computação e desenvolvimento de software, com um foco especial no desenvolvimento de aplicações web.
+Sou uma desenvolvedora front-end apaixonada por criar experiências digitais incríveis. Nos últimos anos, tenho me dedicado ao aprimoramento das minhas habilidades em engenharia da computação e desenvolvimento de software, tanto em desenvolvimento web quanto mobile.
 
 Tenho um grande entusiasmo por aprender e buscar soluções inovadoras. Estou constantemente me atualizando em tecnologias que proporcionam uma melhor experiência às pessoas. Atualmente morando em São Luís - Maranhão - Brasil.
 

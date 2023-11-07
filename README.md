@@ -34,6 +34,8 @@ Tenho um grande entusiasmo por aprender e buscar soluções inovadoras. Estou co
   
 ##
 
+![snake gif](https://github.com/GisellyPereira/GisellyPereira/blob/output/github-contribution-grid-snake.svg)
+
 
   
 

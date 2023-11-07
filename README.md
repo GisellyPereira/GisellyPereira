@@ -29,13 +29,3 @@ Tenho um grande entusiasmo por aprender e buscar soluções inovadoras. Estou co
  
  "A sabedoria não é um produto da escolaridade, mas da tentativa ao longo da vida de adquiri-la." - Albert Einstein
    
-
-   
-  
-##
-
-![snake gif](https://github.com/GisellyPereira/GisellyPereira/blob/output/github-contribution-grid-snake.svg)
-
-
-  
-

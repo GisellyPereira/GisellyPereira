@@ -12,7 +12,6 @@ Sou uma desenvolvedora front-end apaixonada por criar experiências digitais inc
 Tenho um grande entusiasmo por aprender e buscar soluções inovadoras. Estou constantemente me atualizando em tecnologias que proporcionam uma melhor experiência às pessoas. Atualmente morando em São Luís - Maranhão - Brasil.
 
 - 📫  Como entrar em contato comigo: giselly.avpereira@gmail.com .
-- 🐈 Curiosidade: Gosto muito de gatos.
 
 
  **Tecnologias:**
